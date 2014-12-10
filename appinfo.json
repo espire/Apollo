@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Eli Spiro",
+    "longName": "Apollo",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/no_litter_crop.png",
+                "name": "IMAGE_NO_LITTER",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "Apollo",
+    "uuid": "5a18c557-682e-4a80-98dd-56d2ab19a33d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
